@@ -756,6 +756,17 @@ input, select, textarea {
 			.image.main img {
 				width: 100%;
 			}
+		
+		.image.logo {
+			display: block;
+			width: 100%;
+			height: 100%;
+		}
+	
+				.image.logo img {
+					width: 100%;
+					height: 100%;
+				}
 
 		@media screen and (max-width: 736px) {
 
